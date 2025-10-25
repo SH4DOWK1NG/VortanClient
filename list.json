@@ -1,15 +1,16 @@
 {
- "theme": {
-  "background_url": "https://raw.githubusercontent.com/SH4DOWK1NG/VortanClient/main/background.png",
+  "theme": {
+    "background_url": "https://raw.githubusercontent.com/SH4DOWK1NG/VortanClient/main/background.png",
 
-  "container_margins": [12, 10, 12, 12],   
-  "banner_height": 360,                   
-  "banner_margins": [22, 18, 18, 16],     
-  "cardpage_margins": [22, 10, 22, 10],  
-  "card_padding": [26, 16, 26, 16],        
-  "card_width": 930,                     
-  "card_align": "left",
-  "art_height": 120                                             
+    "container_margins": [12, 10, 12, 12],   
+
+    "banner_height": 420,                   
+    "banner_margins": [14, 14, 14, 14],      
+    "cardpage_margins": [16, 12, 16, 12],    
+    "card_padding": [22, 16, 22, 14],        
+    "card_width": 1000,                       
+    "card_align": "center",
+    "art_height": 170                        
   },
   "wizard": {
     "welcome": {
@@ -50,4 +51,3 @@
     }
   }
 }
-

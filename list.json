@@ -8,8 +8,8 @@
     "banner_margins": [14, 14, 14, 14],      
     "cardpage_margins": [16, 12, 16, 12],    
     "card_padding": [22, 16, 22, 14],        
-    "card_width": 980,                       
-
+    "card_width": 1000,                       
+    "card_align": "center",
     "art_height": 170                        
   },
   "wizard": {
@@ -51,3 +51,4 @@
     }
   }
 }
+

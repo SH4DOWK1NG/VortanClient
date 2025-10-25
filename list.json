@@ -1,6 +1,16 @@
 {
   "theme": {
-    "background_url": "https://raw.githubusercontent.com/SH4DOWK1NG/VortanClient/main/background.png"
+    "background_url": "https://raw.githubusercontent.com/SH4DOWK1NG/VortanClient/main/background.png",
+
+    "container_margins": [12, 10, 12, 12],   
+
+    "banner_height": 220,                   
+    "banner_margins": [14, 14, 14, 14],      
+    "cardpage_margins": [16, 12, 16, 12],    
+    "card_padding": [22, 16, 22, 14],        
+    "card_width": 980,                       
+
+    "art_height": 170                        
   },
   "wizard": {
     "welcome": {

@@ -4,7 +4,7 @@
 
     "container_margins": [12, 10, 12, 12],   
 
-    "banner_height": 220,                   
+    "banner_height": 520,                   
     "banner_margins": [14, 14, 14, 14],      
     "cardpage_margins": [16, 12, 16, 12],    
     "card_padding": [22, 16, 22, 14],        
@@ -51,3 +51,4 @@
     }
   }
 }
+

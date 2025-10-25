@@ -1,4 +1,7 @@
 {
+  "theme": {
+    "background_url": "https://raw.githubusercontent.com/SH4DOWK1NG/VortanClient/main/background.png"
+  },
   "wizard": {
     "welcome": {
       "title": "Welcome to the VortanMU Official Installer",

@@ -1,4 +1,8 @@
 {
+  "theme": {
+    "card_bg_url": "https://raw.githubusercontent.com/SH4DOWK1NG/VortanClient/main/background.png",
+    "card_overlay_alpha": 120
+  },
   "wizard": {
     "welcome": {
       "title": "Welcome to the VortanMU Official Installer",
@@ -38,3 +42,4 @@
     }
   }
 }
+

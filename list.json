@@ -44,11 +44,11 @@
 
   "packages": [
     {
-      "label": "Base (sem Music)",
+      "label": "Base Installation",
       "url": "https://github.com/SH4DOWK1NG/VortanClient/releases/download/v2.0.0/zip1.zip"
     },
     {
-      "label": "Music",
+      "label": "Music Folder",
       "url": "https://github.com/SH4DOWK1NG/VortanClient/releases/download/v2.0.0/zip2.zip"
     }
   ]
